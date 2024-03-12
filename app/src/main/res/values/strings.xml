@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Mb5</string>
+
+    <string-array name="categories">
+        <item>Сыр</item>
+        <item>Колбаса</item>
+        <item>Молочка</item>
+        <item>Чай</item>
+        <item>Мороженое</item>
+        <item>Выпечка</item>
+        <item>Бакалея</item>
+    </string-array>
+
+    <string-array name="cheese">
+        <item>Моцарелла</item>
+        <item>Российский</item>
+        <item>Чеддер</item>
+        <item>Сулугуни</item>
+        <item>Маасдам</item>
+        <item>Сливочный</item>
+        <item>Козий</item>
+        <item>Ламбер</item>
+    </string-array>
+    <string-array name="milk">
+        <item>Молоко</item>
+        <item>Йогурт</item>
+        <item>Творог</item>
+        <item>Кейфир 1%</item>
+        <item>Кейфир 2%</item>
+        <item>Кейфир 3%</item>
+        <item>Сметана 1%</item>
+        <item>Сметана 2%</item>
+        <item>Сметана 3%</item>
+    </string-array>
+    <string-array name="sausage">
+        <item>Сосиски</item>
+        <item>Сосиски молочные</item>
+        <item>Сосиски охотничьи</item>
+        <item>Сардельки</item>
+        <item>Салями</item>
+        <item>Пепперони</item>
+        <item>Балык</item>
+        <item>Сало</item>
+        <item>Бекон</item>
+    </string-array>
+    <string-array name="bakaleya">
+        <item>Греча</item>
+        <item>Масло подсолнечное</item>
+        <item>Вермишель</item>
+        <item>Спагетти</item>
+        <item>Булгур</item>
+        <item>Горох</item>
+        <item>Сахар</item>
+        <item>Соль</item>
+        <item>Сода пищевая</item>
+    </string-array>
+    <string-array name="tea">
+        <item>Чёрный чай</item>
+        <item>Зеленый чай</item>
+        <item>Каркаде</item>
+        <item>Чай с ягодами</item>
+    </string-array>
+    <string-array name="ice_cream">
+        <item>Шоколадное</item>
+        <item>Фисташковое</item>
+        <item>Пломбир</item>
+        <item>Карамельное</item>
+        <item>Банановое</item>
+        <item>Малиновое</item>
+        <item>Клубничное</item>
+        <item>Микс</item>
+    </string-array>
+    <string-array name="backed">
+        <item>Пирожок с картошкой</item>
+        <item>Пирожок с капустой</item>
+        <item>Пирожок с мясом</item>
+        <item>Чебурек</item>
+        <item>Слойка</item>
+        <item>Пончик</item>
+        <item>Булочка</item>
+        <item>Самса</item>
+    </string-array>
+</resources>
